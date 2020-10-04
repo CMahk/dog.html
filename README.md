@@ -3,6 +3,8 @@
 
 A fan project based on the indie game, [Undertale](https://undertale.com/). It is more of a live wallpaper than a game.
 
+You can [try it out here](https://cmahk.github.io/dog/dog.html)!
+
 ![Main Window](https://i.imgur.com/LoNtqPE.png)
 
 ## How to build
